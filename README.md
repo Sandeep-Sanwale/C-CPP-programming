@@ -1,2 +1,2 @@
 # C-programming
-###In this Repository
+   In this Repository i have just uploaded or creat basic programs of c language ....
